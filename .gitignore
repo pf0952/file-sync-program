@@ -1,0 +1,6 @@
+backup_settings.json
+*.exe
+build/
+dist/
+*.spec
+__pycache__/
